@@ -456,7 +456,7 @@ CONFIG['DATA_PATH'] = '/content/drive/MyDrive/your-data-folder/'
 
 ## 👤 Author
 
-**[Your Name]**
+**[Clarisya Adeline]**
 
 - GitHub: [@ClarisyaA](https://github.com/ClarisyaA)
 - LinkedIn: [clarisyaadeline](https://linkedin.com/in/clarisyaadeline)
