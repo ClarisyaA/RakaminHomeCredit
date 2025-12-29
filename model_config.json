@@ -1,0 +1,27 @@
+{
+  "DATA_PATH": "/content/drive/MyDrive/KULIAH/Rakamin/",
+  "N_FOLDS": 5,
+  "RANDOM_STATE": 42,
+  "EARLY_STOP_ROUNDS": 100,
+  "PROFIT_RATE": 0.1,
+  "LGD": 0.4,
+  "INTEREST_RATE": 0.12,
+  "LOSS_RATE": 0.8,
+  "REVIEW_COST": 50,
+  "MIN_APPROVAL_RATE": 0.75,
+  "N_JOBS": 2,
+  "USE_FLOAT32": true,
+  "EPS": 1e-08,
+  "MIN_CATEGORY_FREQ": 50,
+  "optimal_threshold": 0.7093304173512893,
+  "best_model": "XGBoost",
+  "best_roc_auc": 0.7888628506775945,
+  "best_pr_auc": 0.2816359494374288,
+  "net_benefit": 786535424.0,
+  "tier_thresholds": {
+    "low": 0.390271931886673,
+    "high": 0.6386244297027588
+  },
+  "baseline_profit": 9289172992.0,
+  "model_profit": 13346974454.0
+}
